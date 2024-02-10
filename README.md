@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henbayumlembam
-- 👀 I’m interested in psycology
+- 👀 I’m interested in psychology
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me email: henbaymlembam10@gmail.com
